@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DeviceTest
+comment0.text=\n\ The\ test\ class\ DeviceTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testSetLocation()
+comment1.text=\n\ it\ tests\ the\ SetLocation\ method\ by\ adding\ a\ new\ \n\ location\ String\ and\ calling\ the\ getLocation\ function\n
+comment2.params=
+comment2.target=void\ testSetDeviceType()
+comment2.text=\n\ it\ tests\ the\ setDeviceType\ method\ by\ adding\ a\ new\ \n\ string\ deviceType\ and\ calling\ the\ getDeviceType\ method\n
+comment3.params=
+comment3.target=void\ testAvailability()
+comment3.text=\n\ it\ tests\ the\ Availability\ method\ by\ returning\ its\ \n\ default\ value\ and\ after\ calling\ the\ setUnavailability\ method\n
+comment4.params=
+comment4.target=void\ testPrintDetails()
+comment4.text=\n\ it\ tests\ the\ printDetails\ method\ by\ printing\ the\ values\n\ of\ all\ its\ fields\ \n
+numComments=5

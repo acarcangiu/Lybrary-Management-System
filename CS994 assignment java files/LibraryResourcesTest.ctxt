@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LibraryResourcesTest
+comment0.text=\n\ The\ test\ class\ LibraryResourcesTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testSetAuthor()
+comment1.text=\n\ tests\ the\ setAuthor\ method\ by\ calling\ the\ getResourceAuthor\n\ method\ \n
+comment2.params=
+comment2.target=void\ testSetResourceName()
+comment2.text=tests\ the\ setResourceName\ method\ by\ calling\ the\ \n\ getResourceName\ method\ \n
+comment3.params=
+comment3.target=void\ testSetIsbn()
+comment3.text=\n\ tests\ the\ setResourceIsbn\ method\ by\ calling\ the\ \n\ getResourceIsbn\ method\n
+comment4.params=
+comment4.target=void\ testPrintResourceDetails()
+comment4.text=\n\ tests\ the\ PirntResourceDetails\ by\ calling\ the\ function\n\ on\ a\ new\ LibraryResource\ object\n
+comment5.params=
+comment5.target=void\ testEditTitle()
+comment5.text=\n\ tests\ the\ EditTitle\ method\ by\ calling\ the\ editTitle\n\ method\ and\ then\ calling\ the\ getTitle\ method\n\ expecting\ the\ new\ title\ in\ return\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BookTest
+comment0.text=\n\ The\ test\ class\ BookTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testAddLibraryMember()
+comment1.text=\n\ it\ adds\ a\ new\ library\ member\ String\ and\ returns\ \n\ the\ added\ value\ when\ calling\ the\ getLibraryMember\ method\n
+comment2.params=
+comment2.target=void\ testAddDamages()
+comment2.text=\n\ it\ adds\ a\ new\ damage\ String\ and\ returns\ \n\ the\ added\ value\ when\ calling\ the\ getBookDamages\ method\n
+comment3.params=
+comment3.target=void\ testCheckAvailability()
+comment3.text=\n\ it\ checks\ the\ availability\ default\ value\ and\ its\n\ value\ after\ using\ the\ setUnavailability\ method\n
+numComments=4

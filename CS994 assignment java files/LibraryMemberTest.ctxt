@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LibraryMemberTest
+comment0.text=\n\ The\ test\ class\ LibraryMemberTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testSetMemberName()
+comment1.text=\n\ tests\ the\ setMemberName\ method\ by\ setting\ a\ string\n\ value\ for\ the\ fullName\ field\ and\ by\ calling\ the\ \n\ getMemberName\ method\n
+comment2.params=
+comment2.target=void\ testSetMemberUsername()
+comment2.text=\n\ tests\ the\ setMemberUsername\ method\ by\ setting\ a\ string\n\ value\ for\ the\ userName\ field\ and\ by\ calling\ the\ \n\ getMemberUserName\ method\n
+comment3.params=
+comment3.target=void\ testPrintMemberDetails()
+comment3.text=\n\ tests\ the\ PrintMemberDetails\ method\ by\ setting\ the\n\ LibraryMember\ fields\ to\ new\ values\ and\ printing\ them\n
+comment4.params=
+comment4.target=void\ testPrintMessages()
+comment4.text=\n\ test\ the\ PrintMessages\ method\ by\ creating\ a\ new\ \n\ Library\ object,\ a\ new\ Book\ object\ and\ a\ new\ LibraryMember\ \n\ object.\ it\ adds\ the\ Book\ to\ the\ list\ of\ borrowed\ books\n\ by\ the\ member\ and\ sends\ a\ message\ from\ the\ Library\ \n\ Objects\ to\ the\ LibraryMember\ object.\ Then\ calls\ the\n\ PirntMessages\ method\n
+comment5.params=
+comment5.target=void\ testGetNumberOfBooks()
+comment5.text=\n\ tests\ the\ getNumberOfBooks\ method\ by\ adding\ a\ book\n\ object\ to\ the\ list\ of\ borrowed\ books.\ then\ calls\ the\n\ getNumberOfBooks\ method\ expecting\ to\ see\ the\ int\ 1\n
+numComments=6

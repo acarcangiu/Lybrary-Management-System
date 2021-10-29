@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\n\ class\ that\ represents\ a\ physical\ book\n
+comment1.params=author\ title\ isbn
+comment1.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getlibraryMember()
+comment2.text=\n\ returns\ the\ member\ that\ has\ the\ book\n
+comment3.params=
+comment3.target=java.lang.String\ getbookDamages()
+comment3.text=\n\ returns\ the\ damages\ the\ book\ received\n
+comment4.params=librarymember
+comment4.target=void\ addlibraryMember(java.lang.String)
+comment4.text=\n\ sets\ the\ library\ member\ that\ borrowed\ the\ book\n
+comment5.params=bookdamages
+comment5.target=void\ addBookDamages(java.lang.String)
+comment5.text=\n\ adds\ damages\ to\ the\ book\n
+comment6.params=
+comment6.target=void\ setUnvailability()
+comment6.text=\nsets\ the\ book\ availability\ to\ unavailable\ \n
+comment7.params=
+comment7.target=void\ checkAvailability()
+comment7.text=\n\ checks\ the\ availability\ status\ of\ the\ book\n
+comment8.params=
+comment8.target=void\ printResourceDetails()
+comment8.text=\n\ prints\ all\ the\ details\ registered\ on\ the\ book\n
+numComments=9
